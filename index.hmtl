@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Valhalla Global Trading</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #0b1622;
+            color: white;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 { color: gold; }
+        .card {
+            max-width: 500px;
+            margin: auto;
+            background: #15273a;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        button {
+            background: gold;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>Valhalla Global Trading</h1>
+        <p>Welcome to the trading platform.</p>
+        <button>Start Trading</button>
+    </div>
+</body>
+</html>
